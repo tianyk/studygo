@@ -72,3 +72,4 @@ shift + cmd + ] 打开代码
 
 alt + cmd + o 导入Go package    
     
+ctrl + - 后退
